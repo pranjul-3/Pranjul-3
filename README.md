@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 100-DAYS-CODE<br>👯 I’m looking to collaborate on WEBDEV PROJECT<br>💻 All of my projects are available at https://github.com/Pranjul-3<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about DSA<br>📪 Reach me at pranjuldwivedi55@gmail.com
+🔭 I’m currently working on https://github.com/Pranjul-3/100-DAYS-CODE<br>👯 I’m looking to collaborate on WEBDEV PROJECT<br>💻 All of my projects are available at https://github.com/Pranjul-3<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about DSA<br>📪 Reach me at pranjuldwivedi55@gmail.com
 
 
 ## 🌐 Socials:
