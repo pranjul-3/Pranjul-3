@@ -21,7 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranjul-3&icon=5&color=3)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Pranjul-3/Pranjul-3/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
