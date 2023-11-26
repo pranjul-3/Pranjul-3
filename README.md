@@ -21,9 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranjul-3&icon=5&color=3)](https://visitcount.itsvg.in)
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Pranjul-3&theme=react-dark&hide_border=true&area=true)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
