@@ -12,6 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pranjul-3&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjul-3&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -21,7 +22,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranjul-3&icon=5&color=3)](https://visitcount.itsvg.in)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Pranjul-3&theme=react-dark&hide_border=true&area=true)
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Pranjul-3&theme=react-dark&show_border=true&area=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
