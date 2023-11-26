@@ -20,14 +20,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Pranjul-3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranjul-3&icon=5&color=3)](https://visitcount.itsvg.in)
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Pranjul-3&theme=react-dark&show_border=true&area=true)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Pranjul-3/count.svg" />
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=Pranjul-3&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
