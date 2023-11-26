@@ -23,7 +23,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Pranjul-3&theme=react-dark&show_border=true&area=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=Pranjul-3&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pranjul-3&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
