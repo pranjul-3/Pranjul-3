@@ -1,3 +1,6 @@
+<img src="https://camo.githubusercontent.com/12ed8b5167f26c4212081cb7ece66613b5729ccb45775e8a4a47311af7ae861e/68747470733a2f2f7777772e7468656d6f6f6e746563686e6f6c6f676965732e636f6d2f696d616765732f62616e6e65722d62672e676966" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" width="100%" height ="30%" alt="cool image"><br>
+
+
 # 💫 About Me:
 🔭 I’m currently working on https://github.com/Pranjul-3/100-DAYS-CODE<br>👯 I’m looking to collaborate on WEBDEV PROJECT<br>💻 All of my projects are available at https://github.com/Pranjul-3<br>🌱 I’m currently learning MERN STACK<br>💬 Ask me about DSA<br>📪 Reach me at pranjuldwivedi55@gmail.com
 
