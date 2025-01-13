@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/12ed8b5167f26c4212081cb7ece66613b5729ccb45775e8a4a47311af7ae861e/68747470733a2f2f7777772e7468656d6f6f6e746563686e6f6c6f676965732e636f6d2f696d616765732f62616e6e65722d62672e676966" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" width="100%" height ="30%" alt="cool image"><br>
+<img src="[https://camo.githubusercontent.com/12ed8b5167f26c4212081cb7ece66613b5729ccb45775e8a4a47311af7ae861e/68747470733a2f2f7777772e7468656d6f6f6e746563686e6f6c6f676965732e636f6d2f696d616765732f62616e6e65722d62672e676966" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|](https://www.google.com/search?q=poster%20for%20github%20background&udm=2&tbs=rimg:Cdmx572k-IsoYTcqcxoSDXLZsgIAwAIA2AIA4AIA&cs=1&hl=en&sa=X&ved=0CBwQuIIBahcKEwjYuLaj1fKKAxUAAAAAHQAAAAAQDw&biw=1439&bih=768&dpr=2#vhid=-ceQWNh-8MlAKM&vssid=mosaic)}" width="100%" height ="30%" alt="cool image"><br>
 
 
 # 💫 About Me:
