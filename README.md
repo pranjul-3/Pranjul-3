@@ -1,4 +1,4 @@
-<img src="{https://images.app.goo.gl/hmXExWP53Mui1c757" width="100%" height ="30%" alt="cool image}"><br>
+
 
 
 # 💫 About Me:
